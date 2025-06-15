@@ -1,0 +1,61 @@
+Sintomas: dor de cabeça, estresse, nauseas, enjoo
+Diagnóstico IA: Not Found
+---
+Sintomas: dor de cabeça, estresse, náuseas
+Diagnóstico IA: Not Found
+---
+Sintomas: dor de cabeça, estresse, náuseas
+Diagnóstico IA: Resposta da IA não pôde ser interpretada.
+---
+Sintomas: dor de cabeça, estresse, náuseas
+Diagnóstico IA: Resposta da IA não pôde ser interpretada.
+---
+Sintomas: dor de cabeça
+Diagnóstico IA: Resposta da IA não pôde ser interpretada.
+---
+Sintomas: dor
+Diagnóstico IA: Resposta da IA não pôde ser interpretada.
+---
+Sintomas: dor
+Diagnóstico IA: Resposta da IA não pôde ser interpretada.
+---
+Sintomas: dor de cabça
+Diagnóstico IA: Resposta da IA não pôde ser interpretada.
+---
+Sintomas: tosse
+Diagnóstico IA: Erro ao carregar o script Python.
+---
+Sintomas: tosse
+Diagnóstico IA: Erro ao carregar o script Python.
+---
+Sintomas: tosse
+Diagnóstico IA: Erro ao carregar o script Python.
+---
+Sintomas: tosse
+Diagnóstico IA: Erro ao carregar o script Python.
+---
+Sintomas: tosse
+Diagnóstico IA: tosse and then it looks like it's going to be a lot more fun with the new features. I love it! It's a bit of a grind, but I'm glad I got to see that with the new features.
+
+Thanks for the heads up, and I hope we continue to see lots of new features in the next version of the game.
+
+Katherine
+---
+Sintomas: febre, dor de cabeça
+Diagnóstico IA: febre, dor de cabeça, cienfeci, cienfeci, dar di español, dar di español, dar di español, dar di español, darf di español, darf di español, darf di español, darf di español, darf di español, darf di español, darf di español, darf di español, darf di español, darf di español, darf di español, ding di español, ding di español, ding di español, ding di español, ding di español, ding di español, ding di español, ding di español, ding di español, ding di español, ding di español, ding di español, ding di español, ding di español, ding di español, ding di español, ding di español, ding di espa
+---
+Sintomas: febre dor de cabeça 
+Diagnóstico IA: Diagnosticar: febre dor de cabeça
+---
+Sintomas: febre e dor de cabeça
+Diagnóstico IA: Based on symptoms: febre e dor de cabeça, forneça um diagnóstico e conselhos médicos.
+Diagnóstico baseado em regras: Diagnóstico combinado concluído.
+---
+Sintomas: dor de cabeça
+Diagnóstico IA: Based on the symptoms: head pain, provides a diagnosis and medical recommendations.
+Diagnóstico baseado em regras: Diagnóstico combinado concluído.
+---
+Sintomas: febre e tosse
+Diagnóstico IA: Erro ao carregar o script Python.
+Diagnóstico baseado em regras: Diagnóstico combinado concluído.
+---
